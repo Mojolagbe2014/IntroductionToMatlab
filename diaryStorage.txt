@@ -568,18 +568,7 @@ ans =
      0     0
      0     0
 
-D = [C zeros(2); ones(2) eye(2)]
-{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
-Dimensions of matrices being concatenated are not consistent.
-} 
-[C zeros(2)]
-{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
-Dimensions of matrices being concatenated are not consistent.
-} 
-[C zeros(4)]
-{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
-Dimensions of matrices being concatenated are not consistent.
-} 
+
 C
 
 C =
